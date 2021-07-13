@@ -21,5 +21,7 @@
   "devDependencies": {
     "firebase-functions-test": "^0.2.0"
   },
+  "proxy": "https://us-central1-enabledchat.cloudfunctions.net/api",
+
   "private": false
 }
